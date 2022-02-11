@@ -11,19 +11,19 @@ namespace SwitchStatements
             switch (userInput)
             {
                 case "English":
-                    Console.WriteLine(" Mee too");
+                    Console.WriteLine(" English Mee too");
                     break;
                 case "Math":
-                    Console.WriteLine("Nerd");
+                    Console.WriteLine("Math is for Nerds");
                     break;
                 case "Bio":
-                    Console.WriteLine("My guy");
+                    Console.WriteLine(" Bio is the way My guy");
                     break;
                 case "C#":
-                    Console.WriteLine("You Go");
+                    Console.WriteLine(" C#, You Go");
                     break;
                 case "JAVA":
-                    Console.WriteLine("NO NOT YET");
+                    Console.WriteLine("No no Java NO NOT YET");
                     break;
                 default:
                     Console.WriteLine("Never Mind");
